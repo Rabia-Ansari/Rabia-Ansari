@@ -97,3 +97,9 @@ Become a professional Cybersecurity Expert & Ethical Hacker while working on AI-
 ---
 
 <h3 align="center">⭐ Learning every day, building the future step by step ⭐</h3>
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rabia-Ansari&show_icons=true&theme=radical" />
+</p>
+
