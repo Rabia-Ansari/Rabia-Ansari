@@ -1,16 +1,99 @@
-## Hi there 👋
+ <h1 align="center">👋 Hi, I'm Rabia Yousaf</h1>
 
-<!--
-**Rabia-Ansari/Rabia-Ansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🔐 Cybersecurity Enthusiast | 🤖 AI/ML Intern | 📊 Business Development Associate
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👩‍💻 About Me</h2>
+
+<p>
+I am a multi-domain tech enthusiast exploring Cybersecurity, Artificial Intelligence, and Business Development.  
+I enjoy understanding systems, securing them, and building intelligent solutions using modern technologies.
+</p>
+
+---
+
+<h2>🛠️ Skills</h2>
+
+<table>
+<tr>
+<td>
+
+<h3>🔐 Cybersecurity</h3>
+<ul>
+<li>Ethical Hacking Basics</li>
+<li>Network Security</li>
+<li>Nmap, Wireshark, Burp Suite</li>
+<li>Website Security Testing</li>
+</ul>
+
+</td>
+
+<td>
+
+<h3>🤖 AI / ML</h3>
+<ul>
+<li>AI/ML Internship Experience</li>
+<li>Data Analysis Basics</li>
+<li>Machine Learning Concepts</li>
+</ul>
+
+</td>
+
+<td>
+
+<h3>📊 Business Development</h3>
+<ul>
+<li>Client Communication</li>
+<li>Strategy & Planning</li>
+<li>Part-time Professional Experience</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2>📂 Projects & Work</h2>
+
+<ul>
+<li>🔍 Nmap Network Scanning Reports</li>
+<li>🌐 Website Security Testing (Internship Work)</li>
+<li>📊 Limeox Internship Research Work</li>
+<li>🧠 AI/ML Internship Tasks</li>
+</ul>
+
+---
+
+<h2>🎯 Current Focus</h2>
+
+<p>
+✔ Cybersecurity & Ethical Hacking  
+✔ Penetration Testing Practice  
+✔ AI/ML Real-world Applications  
+✔ Building Professional Portfolio  
+</p>
+
+---
+
+<h2>🚀 Goals</h2>
+
+<p>
+Become a professional Cybersecurity Expert & Ethical Hacker while working on AI-driven security systems and real-world tech solutions.
+</p>
+
+---
+
+<h2>📫 Connect with Me</h2>
+
+<p>
+💼 LinkedIn: (add link here) <br>
+📧 Email: (optional)
+</p>
+
+---
+
+<h3 align="center">⭐ Learning every day, building the future step by step ⭐</h3>
