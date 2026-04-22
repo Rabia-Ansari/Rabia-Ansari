@@ -103,3 +103,17 @@ Become a professional Cybersecurity Expert & Ethical Hacker while working on AI-
   <img src="https://github-readme-stats.vercel.app/api?username=Rabia-Ansari&show_icons=true&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rabia-Ansari&theme=radical" />
+</p>
+
+<h2>🧰 Tools & Technologies</h2>
+
+<p>
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=gnu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+</p>
+
+
