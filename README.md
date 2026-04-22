@@ -90,8 +90,8 @@ Become a professional Cybersecurity Expert & Ethical Hacker while working on AI-
 <h2>📫 Connect with Me</h2>
 
 <p>
-💼 LinkedIn: (add link here) <br>
-📧 Email: (optional)
+💼 LinkedIn: https://www.linkedin.com/in/rabia-yousaf-40212a226/ <br>
+📧 Email: rabiayousaf125@gmail.com
 </p>
 
 ---
