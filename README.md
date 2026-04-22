@@ -1,8 +1,8 @@
  <h1 align="center">👋 Hi, I'm Rabia Yousaf</h1>
 
-<h3 align="center">
-🔐 Cybersecurity Enthusiast | 🤖 AI/ML Intern | 📊 Business Development Associate
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Cybersecurity+Enthusiast;AI%2FML+Intern;Ethical+Hacker+in+Progress" />
+</p>
 
 ---
 
@@ -116,8 +116,6 @@ Become a professional Cybersecurity Expert & Ethical Hacker while working on AI-
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Cybersecurity+Enthusiast;AI%2FML+Intern;Ethical+Hacker+in+Progress" />
-</p>
+
 
 
